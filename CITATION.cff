@@ -1,0 +1,27 @@
+# YAML 1.2
+---
+abstract: "Course materials for an Introduction to Software Management Plans workshop developed by the Software Sustainability Institute."
+authors: 
+  -
+    affiliation: "University of Edinburgh"
+    family-names: "Chue Hong"
+    given-names: "Neil Philippe"
+    orcid: "https://orcid.org/0000-0002-8876-7606"
+  -
+    affiliation: "University of Southampton"
+    family-names: Crouch
+    given-names: Stephen
+    orcid: "https://orcid.org/0000-0001-8985-6814"
+cff-version: "1.1.0"
+date-released: 2021-11-01
+keywords: 
+  - "software management plan"
+  - SMP
+  - "research software engineering"
+  - "software sustainability"
+license: "CC-BY-4.0"
+message: "If you use these materials, please cite them as below."
+repository-code: "https://github.com/softwaresaved/introduction-to-software-management-plans"
+title: "Introduction to Software Management Plans"
+version: "0.9.0"
+...
