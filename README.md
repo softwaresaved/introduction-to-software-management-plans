@@ -21,7 +21,7 @@ A Software Management Plan (SMP) is a statement of intent around how you will ma
 - [Understanding SMPs: who they’re for, why they’re useful, and some examples](https://github.com/softwaresaved/introduction-to-software-management-plans/blob/main/slides/2_Understanding_SMPs.pdf)
 - [Breakout Session 1: Examining SMPs](https://github.com/softwaresaved/introduction-to-software-management-plans/blob/main/breakouts/1_Examining_SMPs.md)
 - [Timelines - when to do what with an SMP, and applying it your own project](https://github.com/softwaresaved/introduction-to-software-management-plans/blob/main/slides/3_Timelines.pdf)
-- Breakout Session 2: A First SMP and Beyond
+- [Breakout Session 2: A First SMP and Beyond](https://github.com/softwaresaved/introduction-to-software-management-plans/blob/main/breakouts/2_First_SMP_and_Beyond.md)
 - [Wrapping up](https://github.com/softwaresaved/introduction-to-software-management-plans/blob/main/slides/4_Wrapup.pdf)
 
 ## Acknowledgements
