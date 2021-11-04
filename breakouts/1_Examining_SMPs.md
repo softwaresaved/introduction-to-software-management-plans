@@ -2,7 +2,7 @@
 
 ## Comparing different examples of Software Management Plans
 
-Spend about 15 minutes looking at these different examples of software management plans. Discuss in your group what the similarities and differences are, based on the prompt questions below. Record your discussion in this document, we will ask groups to share some of their thoughts.
+Spend about 15 minutes looking at these different examples of software management plans. Discuss in your group what the similarities and differences are, based on the prompt questions below. Record your discussion, we will ask groups to share some of their thoughts.
 
 ### Examples of Software Management Plans
 - [A minimal software management plan written to accompany the research for a paper](https://github.com/softwaresaved/introduction-to-software-management-plans/blob/main/examples/minimal-smp.md)
